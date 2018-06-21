@@ -1,6 +1,11 @@
+# Backround
 Using MongoDB hosted on an atlas server, you can add edit and search POI by geo location.
+I've used mongo becuase of it's easy box quering abillites and typescript for static typing, which ended up being not as usefull as I thought with KOA.
 
-#Usage
+# Setup
+npm install
+npm start
+
 # POST /poi/create
 Create a poi
 Example call:
