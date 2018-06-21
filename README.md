@@ -4,6 +4,7 @@ I've used mongo becuase of it's easy box quering abillites and typescript for st
 
 # Setup
 npm install
+
 npm start
 
 # POST /poi/create
